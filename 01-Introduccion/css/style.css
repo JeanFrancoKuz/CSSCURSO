@@ -1,4 +1,4 @@
-/* 
+
 
 
 Selector universal 
@@ -35,7 +35,7 @@ Selector de ID
 } */
 
 
-/* 
+
 combinador de descendientes 
 
 .abuelito .titulo{
@@ -49,4 +49,3 @@ combinador de hijos directos
     color: blue;
 } 
 
-*/
